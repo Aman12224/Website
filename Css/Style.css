@@ -397,7 +397,7 @@ img{
 
 .home__data{
     grid-area: home__content;
-    width: 600px;
+    width: 700px;
     align-content: center;
     text-align: center;
     transform: translateX(-4rem);
