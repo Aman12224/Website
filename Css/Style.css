@@ -397,10 +397,10 @@ img{
 
 .home__data{
     grid-area: home__content;
-    width: 700px;
+    width: 1200px;
     align-content: center;
     text-align: center;
-    transform: translateX(-4rem);
+    transform: translateX(0rem);
 }
 
 .home__welcome{
